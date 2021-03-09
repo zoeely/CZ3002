@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ASE</string>
+    <string name="button_Mainmenu">Main Menu</string>
+    <string name="button_Playagain">Play again</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="Timetaken">Time taken:</string>
+    <string name="start_game">Start</string>
+    <string name="view_history">History</string>
+</resources>
